@@ -10,3 +10,5 @@ Aula4 - Apresentação das variáveis.
 Aula5 - Apresentação de constantes e operadores aritmeticos e explicações sobre os tipos(String, Number) que uma variável pode ter.
 
 Aula6 - Exercicio com tudo que foi visto até agora
+
+Aula7 - Explicação Let vs Var primeira diferença.
