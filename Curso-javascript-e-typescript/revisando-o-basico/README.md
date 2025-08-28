@@ -12,3 +12,9 @@ Aula5 - Apresentação de constantes e operadores aritmeticos e explicações so
 Aula6 - Exercicio com tudo que foi visto até agora
 
 Aula7 - Explicação Let vs Var primeira diferença.
+
+Aula8 - Tipos de dados primitivos em Java.
+
+Aula9 - Operadores Aritmeticos e Operadores de atribuição.
+
+Aula10 - Trabalhando funções dentro do navegador no Console e explicações dentro da aula.
