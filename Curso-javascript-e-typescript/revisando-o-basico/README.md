@@ -18,3 +18,6 @@ Aula8 - Tipos de dados primitivos em Java.
 Aula9 - Operadores Aritmeticos e Operadores de atribuição.
 
 Aula10 - Trabalhando funções dentro do navegador no Console e explicações dentro da aula.
+ window.alert window.confirm window.prompt
+
+Aula11 - Exercicio com variaveis 
